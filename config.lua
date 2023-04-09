@@ -1,6 +1,6 @@
 Config = {}
 
--- Define the blips
+--Define the blips--Edit in your Blips below
 Config.Blips = {
     {
         name = "Airport",
